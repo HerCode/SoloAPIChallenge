@@ -1,0 +1,22 @@
+{
+  "name": "soloapichallenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HerCode/SoloAPIChallenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HerCode/SoloAPIChallenge/issues"
+  },
+  "homepage": "https://github.com/HerCode/SoloAPIChallenge#readme",
+  "dependencies": {
+    "jquery": "^3.1.0"
+  }
+}
